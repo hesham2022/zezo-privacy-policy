@@ -39,6 +39,7 @@ We take reasonable precautions to protect your information. However, no method o
 
 Zezo reserves the right to modify this Privacy Policy at any time. Changes and clarifications will take effect immediately upon their posting on the App. We encourage you to review this Privacy Policy periodically for any updates.
 
+
 ## Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at [contact@zezoapp.com].
